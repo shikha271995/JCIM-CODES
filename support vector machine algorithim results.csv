@@ -1,0 +1,243 @@
+,Category,0,1
+0,Actual,,
+1,0, 132, 40
+2,1, 19, 774
+3,Overall Statistics :,,
+4,95% CI, (0.92374,0.95398)
+5,ACC Macro, 0.93886,
+6,ARI, 0.71449,
+7,AUNP, 0.87174,
+8,AUNU, 0.87174,
+9,Bangdiwala B, 0.91813,
+10,Bennett S, 0.87772,
+11,CBA, 0.85915,
+12,CSI, 0.78426,
+13,Chi-Squared, 591.92783,
+14,Chi-Squared DF, 1,
+15,Conditional Entropy, 0.27352,
+16,Cramer V, 0.7832,
+17,Cross Entropy, 0.6787,
+18,F1 Macro, 0.89031,
+19,F1 Micro, 0.93886,
+20,FNR Macro, 0.12826,
+21,FNR Micro, 0.06114,
+22,FPR Macro, 0.12826,
+23,FPR Micro, 0.06114,
+24,Gwet AC1, 0.91524,
+25,Hamming Loss, 0.06114,
+26,Joint Entropy, 0.94972,
+27,KL Divergence, 0.0025,
+28,Kappa, 0.78081,
+29,Kappa 95% CI, (0.72662,0.835)
+30,Kappa No Prevalence, 0.87772,
+31,Kappa Standard Error, 0.02765,
+32,Kappa Unbiased, 0.78062,
+33,Krippendorff Alpha, 0.78074,
+34,Lambda A, 0.65698,
+35,Lambda B, 0.60927,
+36,Mutual Information, 0.3523,
+37,NIR, 0.82176,
+38,Overall ACC, 0.93886,
+39,Overall CEN, 0.27615,
+40,Overall J, (1.62027,0.81014)
+41,Overall MCC, 0.7832,
+42,Overall MCEN, 0.224,
+43,Overall RACC, 0.72107,
+44,Overall RACCU, 0.7213,
+45,P-Value, 0.0,
+46,PPV Macro, 0.91252,
+47,PPV Micro, 0.93886,
+48,Pearson C, 0.6166,
+49,Phi-Squared, 0.6134,
+50,RCI, 0.52099Predict," 0, 1"
+51,Actual,,
+52,0, 132, 40
+53,1, 19, 774
+54,Overall Statistics :,,
+55,95% CI, (0.92374,0.95398)
+56,ACC Macro, 0.93886,
+57,ARI, 0.71449,
+58,AUNP, 0.87174,
+59,AUNU, 0.87174,
+60,Bangdiwala B, 0.91813,
+61,Bennett S, 0.87772,
+62,CBA, 0.85915,
+63,CSI, 0.78426,
+64,Chi-Squared, 591.92783,
+65,Chi-Squared DF, 1,
+66,Conditional Entropy, 0.27352,
+67,Cramer V, 0.7832,
+68,Cross Entropy, 0.6787,
+69,F1 Macro, 0.89031,
+70,F1 Micro, 0.93886,
+71,FNR Macro, 0.12826,
+72,FNR Micro, 0.06114,
+73,FPR Macro, 0.12826,
+74,FPR Micro, 0.06114,
+75,Gwet AC1, 0.91524,
+76,Hamming Loss, 0.06114,
+77,Joint Entropy, 0.94972,
+78,KL Divergence, 0.0025,
+79,Kappa, 0.78081,
+80,Kappa 95% CI, (0.72662,0.835)
+81,Kappa No Prevalence, 0.87772,
+82,Kappa Standard Error, 0.02765,
+83,Kappa Unbiased, 0.78062,
+84,Krippendorff Alpha, 0.78074,
+85,Lambda A, 0.65698,
+86,Lambda B, 0.60927,
+87,Mutual Information, 0.3523,
+88,NIR, 0.82176,
+89,Overall ACC, 0.93886,
+90,Overall CEN, 0.27615,
+91,Overall J, (1.62027,0.81014)
+92,Overall MCC, 0.7832,
+93,Overall MCEN, 0.224,
+94,Overall RACC, 0.72107,
+95,Overall RACCU, 0.7213,
+96,P-Value, 0.0,
+97,PPV Macro, 0.91252,
+98,PPV Micro, 0.93886,
+99,Pearson C, 0.6166,
+100,Phi-Squared, 0.6134,
+101,RCI, 0.52099,
+102,Reference Entropy, 0.67621,
+103,Response Entropy, 0.62581,
+104,SOA1(Landis & Koch), Substantial,
+105,SOA2(Fleiss), Excellent,
+106,SOA3(Altman), Good,
+107,SOA4(Cicchetti), Excellent,
+108,SOA5(Cramer), Strong,
+109,SOA6(Matthews), Strong,
+110,SOA7(Lambda A), Strong,
+111,SOA8(Lambda B), Strong,
+112,SOA9(Krippendorff Alpha), Tentative,
+113,SOA10(Pearson C), Strong,
+114,Scott PI, 0.78062,
+115,Standard Error, 0.00771,
+116,TNR Macro, 0.87174,
+117,TNR Micro, 0.93886,
+118,TPR Macro, 0.87174,
+119,TPR Micro, 0.93886,
+120,Zero-one Loss, 59,
+121,Class Statistics :,,
+122,Classes, 0, 1
+123,ACC(Accuracy), 0.93886, 0.93886
+124,AGF(Adjusted F-score), 0.86711, 0.90872
+125,AGM(Adjusted geometric mean), 0.91535, 0.85065
+126,AM(Difference between automatic and manual classification), -21, 21
+127,AUC(Area under the ROC curve), 0.87174, 0.87174
+128,AUCI(AUC value interpretation), Very Good, Very Good
+129,AUPR(Area under the PR curve), 0.82081, 0.96345
+130,BB(Braun-Blanquet similarity), 0.76744, 0.95086
+131,BCD(Bray-Curtis dissimilarity), 0.01088, 0.01088
+132,BM(Informedness or bookmaker informedness), 0.74348, 0.74348
+133,CEN(Confusion entropy), 0.61362, 0.20832
+134,DOR(Diagnostic odds ratio), 134.43158, 134.43158
+135,DP(Discriminant power), 1.1735, 1.1735
+136,DPI(Discriminant power interpretation), Limited, Limited
+137,ERR(Error rate), 0.06114, 0.06114
+138,F0.5(F0.5 score), 0.85052, 0.95579
+139,F1(F1 score - harmonic mean of precision and sensitivity), 0.81734, 0.96329
+140,F2(F2 score), 0.78665, 0.9709
+141,FDR(False discovery rate), 0.12583, 0.04914
+142,FN(False negative/miss/type 2 error), 40, 19
+143,FNR(Miss rate or false negative rate), 0.23256, 0.02396
+144,FOR(False omission rate), 0.04914, 0.12583
+145,FP(False positive/type 1 error/false alarm), 19, 40
+146,FPR(Fall-out or false positive rate), 0.02396, 0.23256
+147,G(G-measure geometric mean of precision and sensitivity), 0.81907, 0.96337
+148,GI(Gini index), 0.74348, 0.74348
+149,GM(G-mean geometric mean of specificity and sensitivity), 0.86548, 0.86548
+150,HD(Hamming distance), 59, 59
+151,IBA(Index of balanced accuracy), 0.5928, 0.90531
+152,ICSI(Individual classification success index), 0.64161, 0.9269
+153,IS(Information score), 2.29411, 0.21051
+154,J(Jaccard index), 0.6911, 0.92917
+155,LS(Lift score), 4.90451, 1.1571
+156,MCC(Matthews correlation coefficient), 0.7832, 0.7832
+157,MCCI(Matthews correlation coefficient interpretation), Strong, Strong
+158,MCEN(Modified confusion entropy), 0.80356," 0.33474, RR, 482.5"
+159,Reference Entropy, 0.67621,
+160,Response Entropy, 0.62581,
+161,SOA1(Landis & Koch), Substantial,
+162,SOA2(Fleiss), Excellent,
+163,SOA3(Altman), Good,
+164,SOA4(Cicchetti), Excellent,
+165,SOA5(Cramer), Strong,
+166,SOA6(Matthews), Strong,
+167,SOA7(Lambda A), Strong,
+168,SOA8(Lambda B), Strong,
+169,SOA9(Krippendorff Alpha), Tentative,
+170,SOA10(Pearson C), Strong,
+171,Scott PI, 0.78062,
+172,Standard Error, 0.00771,
+173,TNR Macro, 0.87174,
+174,TNR Micro, 0.93886,
+175,TPR Macro, 0.87174,
+176,TPR Micro, 0.93886,
+177,Zero-one Loss, 59,
+178,Class Statistics :,,
+179,Classes, 0, 1
+180,ACC(Accuracy), 0.93886, 0.93886
+181,AGF(Adjusted F-score), 0.86711, 0.90872
+182,AGM(Adjusted geometric mean), 0.91535, 0.85065
+183,AM(Difference between automatic and manual classification), -21, 21
+184,AUC(Area under the ROC curve), 0.87174, 0.87174
+185,AUCI(AUC value interpretation), Very Good, Very Good
+186,AUPR(Area under the PR curve), 0.82081, 0.96345
+187,BB(Braun-Blanquet similarity), 0.76744, 0.95086
+188,BCD(Bray-Curtis dissimilarity), 0.01088, 0.01088
+189,BM(Informedness or bookmaker informedness), 0.74348, 0.74348
+190,CEN(Confusion entropy), 0.61362, 0.20832
+191,DOR(Diagnostic odds ratio), 134.43158, 134.43158
+192,DP(Discriminant power), 1.1735, 1.1735
+193,DPI(Discriminant power interpretation), Limited, Limited
+194,ERR(Error rate), 0.06114, 0.06114
+195,F0.5(F0.5 score), 0.85052, 0.95579
+196,F1(F1 score - harmonic mean of precision and sensitivity), 0.81734, 0.96329
+197,F2(F2 score), 0.78665, 0.9709
+198,FDR(False discovery rate), 0.12583, 0.04914
+199,FN(False negative/miss/type 2 error), 40, 19
+200,FNR(Miss rate or false negative rate), 0.23256, 0.02396
+201,FOR(False omission rate), 0.04914, 0.12583
+202,FP(False positive/type 1 error/false alarm), 19, 40
+203,FPR(Fall-out or false positive rate), 0.02396, 0.23256
+204,G(G-measure geometric mean of precision and sensitivity), 0.81907, 0.96337
+205,GI(Gini index), 0.74348, 0.74348
+206,GM(G-mean geometric mean of specificity and sensitivity), 0.86548, 0.86548
+207,HD(Hamming distance), 59, 59
+208,IBA(Index of balanced accuracy), 0.5928, 0.90531
+209,ICSI(Individual classification success index), 0.64161, 0.9269
+210,IS(Information score), 2.29411, 0.21051
+211,J(Jaccard index), 0.6911, 0.92917
+212,LS(Lift score), 4.90451, 1.1571
+213,MCC(Matthews correlation coefficient), 0.7832, 0.7832
+214,MCCI(Matthews correlation coefficient interpretation), Strong, Strong
+215,MCEN(Modified confusion entropy), 0.80356, 0.33474
+216,N(Condition negative), 793, 172
+217,NLR(Negative likelihood ratio), 0.23827, 0.03122
+218,NLRI(Negative likelihood ratio interpretation), Poor, Good
+219,NPV(Negative predictive value), 0.95086, 0.87417
+220,OC(Overlap coefficient), 0.87417, 0.97604
+221,OOC(Otsuka-Ochiai coefficient), 0.81907, 0.96337
+222,OP(Optimized precision), 0.81922, 0.81922
+223,P(Condition positive or support), 172, 793
+224,PLR(Positive likelihood ratio), 32.0306, 4.19697
+225,PLRI(Positive likelihood ratio interpretation), Good, Poor
+226,POP(Population), 965, 965
+227,PPV(Precision or positive predictive value), 0.87417, 0.95086
+228,PRE(Prevalence), 0.17824, 0.82176
+229,Q(Yule Q - coefficient of colligation), 0.98523, 0.98523
+230,QI(Yule Q interpretation), Strong, Strong
+231,RACC(Random accuracy), 0.02789, 0.69318
+232,RACCU(Random accuracy unbiased), 0.02801, 0.69329
+233,TN(True negative/correct rejection), 774, 132
+234,TNR(Specificity or true negative rate), 0.97604, 0.76744
+235,TON(Test outcome negative), 814, 151
+236,TOP(Test outcome positive), 151, 814
+237,TP(True positive/hit), 132, 774
+238,TPR(Sensitivity, recall," hit rate, or true positive rate), 0.76744, 0.97604"
+239,Y(Youden index), 0.74348, 0.74348
+240,dInd(Distance index), 0.23379, 0.23379
+241,sInd(Similarity index), 0.83469, 0.83469
